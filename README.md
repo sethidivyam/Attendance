@@ -145,7 +145,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👨‍💻 Author
 
 **Divyam Sethi**  
-🔗 [LinkedIn](www.linkedin.com/in/divyam-sethi-3a5141232)  
+🔗 [LinkedIn](https://www.linkedin.com/in/divyam-sethi-3a5141232)  
 📧 [Email](mailto:divyamsethi1804@example.com)
 
 ---
